@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../bookd-admin"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../bookd-frontend"
+		}
+	]
+}
