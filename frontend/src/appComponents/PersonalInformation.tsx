@@ -14,7 +14,7 @@ import {
 } from "@/components/ui/select";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import PasswordInputField from "../components/ui/passwordInputField";
+import PasswordInputField from "../components/ui/PasswordInputField";
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { useAuth } from "../../utils";
